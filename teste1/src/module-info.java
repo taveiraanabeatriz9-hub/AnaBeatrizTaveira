@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-
+ 
         int num1, num2, soma;
 
         System.out.print("Digite o primeiro número: ");
@@ -19,4 +19,10 @@ public class Main {
 
         sc.close();
     }
+    
+    //INICIO DA BRANCH   
+    
+    
+    //FIM DA BRANCH
+    
 }
